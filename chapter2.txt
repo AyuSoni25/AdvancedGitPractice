@@ -2,4 +2,5 @@ Chapter 2 : Atoms, Molecules and Compounds
 
 -> point one
 -> point two
--> point three
+-> point three, corrected this point on priority
+-> added this point on priority
