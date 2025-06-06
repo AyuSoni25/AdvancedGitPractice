@@ -3,3 +3,4 @@ Chapter 1 : Solid State
 -> Solid state point one
 -> Solid state point two
 -> Adding a nice diagram based on teacher's remark.
+-> Making some changes to reverting them.
